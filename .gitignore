@@ -1,0 +1,20 @@
+# Virtual environment
+faiss_env/
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
